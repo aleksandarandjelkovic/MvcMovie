@@ -297,3 +297,4 @@ D:\Workspace\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.res
 D:\Workspace\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 D:\Workspace\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 D:\Workspace\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\Workspace\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Producer.resources

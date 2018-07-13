@@ -172,6 +172,10 @@
     <Compile Include="Migrations\201805281608251_DataAnnotations.Designer.cs">
       <DependentUpon>201805281608251_DataAnnotations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807131034101_Producer.cs" />
+    <Compile Include="Migrations\201807131034101_Producer.Designer.cs">
+      <DependentUpon>201807131034101_Producer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -263,6 +267,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201805281608251_DataAnnotations.resx">
       <DependentUpon>201805281608251_DataAnnotations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807131034101_Producer.resx">
+      <DependentUpon>201807131034101_Producer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
