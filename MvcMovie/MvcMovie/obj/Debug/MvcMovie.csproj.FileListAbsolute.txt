@@ -1,0 +1,200 @@
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\ApplicationInsights.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.exe
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.exe.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.rsp
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.exe
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.exe.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.rsp
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.AppContext.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Console.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.Compression.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.Pipes.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.AccessControl.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Claims.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Threading.Thread.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.ValueTuple.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XPath.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\vbc.exe
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\vbc.exe.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\vbc.rsp
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\WebGrease.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Aleksandar\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\ApplicationInsights.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.exe
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.exe.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.rsp
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csi.exe
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csi.exe.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\csi.rsp
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.AppContext.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Console.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.Compression.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Claims.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.ValueTuple.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.exe
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.exe.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.rsp
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\aleksandara\Documents\Visual Studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
