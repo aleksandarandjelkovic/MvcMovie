@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Data.Entity;
 using System.ComponentModel.DataAnnotations;
 
@@ -15,7 +13,7 @@ namespace MvcMovie.Models
 
         [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
-        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+        [DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime ReleaseDate { get; set; }
 
         [RegularExpression(@"^[A-Z]+[a-zA-Z'\s]*$")]
@@ -23,7 +21,6 @@ namespace MvcMovie.Models
         [StringLength(30)]
         public string Genre { get; set; }
 
-        [Range(1, 100)]
         [DataType(DataType.Currency)]
         public decimal Price { get; set; }
 
